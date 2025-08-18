@@ -1,0 +1,26 @@
+# Maven
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+.mvn/wrapper/maven-wrapper.properties
+.mvn/wrapper/maven-wrapperDownloader.java
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDEs
+*.iml
+.idea/
+.vscode/
+*.class
+
+# Docker
+*.dockerignore
+docker-compose.override.yml
+
+# Otros
+*.jar
+*.war

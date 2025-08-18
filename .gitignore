@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Maven
 /target/
 !.mvn/wrapper/maven-wrapper.jar
@@ -24,3 +25,8 @@ docker-compose.override.yml
 # Otros
 *.jar
 *.war
+=======
+/target
+*.jar
+*.war
+>>>>>>> 553441f1dda280804aebd533e916759f49540c2b

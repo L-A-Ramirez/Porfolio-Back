@@ -1,0 +1,32 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+# Java
+*.class
+*.log
+*.jar
+*.war
+*.ear
+
+# Maven
+target/
+
+# IntelliJ
+.idea/
+*.iml
+*.iws
+out/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+
+# VSCode
+.vscode/
+
+# Logs
+*.log

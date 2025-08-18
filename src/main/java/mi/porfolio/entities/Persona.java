@@ -27,6 +27,6 @@ public class Persona {
     private String acercademi;
 
     @Lob
-    @Column(columnDefinition = "LONGBLOB") // para MySQL
+    @Column(columnDefinition = "BYTEA")
     private byte[] foto;
 }
